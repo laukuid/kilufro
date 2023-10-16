@@ -111,10 +111,12 @@ ul.sub-menu li:last-child {
   position: absolute;
   right: 0;
   top: 15px;
+  border-radius:5px;
 }
 
 .mean-bar a.meanmenu-reveal {
   background-color: $primary-color;
+  border-radius:5px;
 }
 
 .main-menu-wrap {
